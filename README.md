@@ -28,7 +28,7 @@
             rudrasiva is studied the 4th year in kits college 
 
 
-![alt text](image.jpg)IMG_20200325_221216_939.jpg
+![alt text]://github.com/RUDRASIVA/siva.git
      
             
             
