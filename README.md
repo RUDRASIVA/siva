@@ -4,7 +4,7 @@
 #### git head4
 ##### git head5
 
-** bold data**
+**bold data**
 
  _italic data*
  
