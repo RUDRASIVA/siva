@@ -16,14 +16,14 @@
  - year1
  - year2
  
-           * year2a
-           * year2b
+           - year2a
+           - year2b
          
     
  - year3
  
-          * year3a
-          * year3b
+          - year3a
+          - year3b
           
 ### paragraph 
     
