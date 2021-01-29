@@ -1,13 +1,6 @@
-# git workshop
-## git head2
-### git head3
-#### git head4
-##### git head5
-
-**bold data**
-
- _italic data*
- 
- _another italic format_
-  
-  **rudra** #rudra
+# ordered list
+ 1.CSE
+ 2.ECE
+ 3.CIVIL
+    1.CIVIL A
+    2.CIVIL B
